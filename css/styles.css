@@ -108,3 +108,11 @@ span {
 .footer {
   background-color: #2e2f42;
 }
+.studiofooter {
+  color: #f4f4fd;
+}
+.webstudiop {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
