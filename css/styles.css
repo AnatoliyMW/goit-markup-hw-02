@@ -12,6 +12,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 
 span {
@@ -24,6 +25,7 @@ span {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-decoration: none;
 }
 .studio:hover {
   color: #404bbf;
@@ -41,6 +43,8 @@ span {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
+  list-style: disc;
 }
 .mail:hover {
   color: #404bbf;
